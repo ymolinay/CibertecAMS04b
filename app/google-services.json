@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322912666128",
+    "project_id": "myciberapps04b",
+    "storage_bucket": "myciberapps04b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322912666128:android:6d6428143e2b21190ac095",
+        "android_client_info": {
+          "package_name": "com.cibertec.myciberapps04b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2p2MZUC-FOGYJwU0iqYLfN5mvlKHKR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
